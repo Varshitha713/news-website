@@ -1,4 +1,18 @@
 
 .color {
-    background-color:wheat;
+    background-color:#bee9e8;
+}
+h2{
+    font-size: 24px;
+    color:#060606
+}
+p{
+    font-size: 18px;
+}
+header{
+    border: 2px dashed #0e0e0ef7;
+}
+nav{
+    border:double #04183be3;
+    width:auto;
 }
