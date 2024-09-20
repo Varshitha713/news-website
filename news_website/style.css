@@ -16,3 +16,7 @@ nav{
     border:double #04183be3;
     width:auto;
 }
+.img{
+    padding: 10px;
+    border: 10px solid #fff6f6;
+}
