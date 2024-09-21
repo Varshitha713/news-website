@@ -1,13 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&display=swap');
-.bungee-tint-regular {
-    font-family: "Bungee Tint", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  
-
 .color {
-    background-color:#bee9e8;
+    /* background-color:#F9DBBD; */
+    background-color:#F8DADC;
 }
 h2{
     font-size: 24px;
@@ -19,11 +12,16 @@ p{
 header{
     border: 2px dashed #0e0e0ef7;
 }
-nav{
-    border:double #04183be3;
+.nav{
+    /* border:double #04183be3; */
     width:auto;
+    /* background-color:#FFA5AB; */
+    background-color:#E2E0D5;
+    display: block;
+    padding:2px;
 }
 .img{
-    padding: 10px;
-    border: 10px solid #fff6f6;
+    padding: 0px;
+    
+    border: 6px solid #fff6f6;
 }
